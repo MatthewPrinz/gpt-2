@@ -1,4 +1,5 @@
 # gpt-2
+Forked from Tenoke. Used blog post: https://svilentodorov.xyz/blog/gpt-finetune extensively. 
 
 Code and samples from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
