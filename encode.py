@@ -39,7 +39,7 @@ def load_dataset(enc, path):
     return token_chunks
 
 
-def encode_main(in_text, out_npz, model_name='774M'):
+def encode_main(in_text, out_npz, model_name='345M'):
     enc = encoder.get_encoder(model_name)
     print('Reading files')
     chunks = load_dataset(enc, in_text)
