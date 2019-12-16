@@ -108,6 +108,8 @@ def train_main(dataset,
                beta2=0.999,
                epsilon=1e-08,
                save_every=1000):
+    
+    # Me adding this
     tf.logging.set_verbosity(tf.logging.ERROR)
     enc = encoder.get_encoder(model_name)
     hparams = model.default_hparams()
