@@ -94,7 +94,7 @@ class Sampler(object):
 
 
 def train_main(dataset,
-               model_name='117M',
+               model_name='774M',
                seed=None,
                batch_size=1,
                sample_length=1023,
