@@ -1,4 +1,6 @@
 # gpt-2
+Updated to use the 345M model. The 774M model is complex and doesn't run in Google Colab (you'll get OOM errors). 
+
 
 Code and samples from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
